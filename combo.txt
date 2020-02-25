@@ -1,0 +1,16 @@
+test@gmail.com:test
+test@gmail.com:test
+test@gmail.fr:test
+test@orange.fr:test
+test@wanadoo.fr:test
+test@sfr.fr:test
+test@gmail.net:teSt
+test@gmail.us:1pass!
+test@gmail.ca:pAss§
+test@gmail.com:TEST
+test@gmail.com:te!st
+test@gmail.com:Test?
+test@numericable.fr:Test
+test@yahoo.com:test1
+test@free.fr:test
+test@sfr.fr:Test
